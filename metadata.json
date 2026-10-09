@@ -1,0 +1,6 @@
+{
+  "name": "Learnicle",
+  "description": "Interactive STEM micro-learning mobile app to master math, physics, and computer science through active intuition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
